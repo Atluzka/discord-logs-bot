@@ -4,9 +4,12 @@
 A simple log bot for your discord server coded in JavaScript.
 * Message Deleted
 * Message Edited
+* Channel Created
+* Channel Deleted
+* User Banned
+* User Unbanned
 
-Going to add more events in the future. Wasn't sure what to add since you can see a lot of them 
-in the audit log anyway.
+Going to add more events in the future. Its easy but annoying to make.
 
 ## Requirements
 
