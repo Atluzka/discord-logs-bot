@@ -5,7 +5,7 @@ A simple log bot for your discord server coded in JavaScript.
 * Message Deleted
 * Message Edited
 
-Going to add more events here. Wasn't sure what to add since you can see a lot of them 
+Going to add more events in the future. Wasn't sure what to add since you can see a lot of them 
 in the audit log anyway.
 
 ## Requirements
